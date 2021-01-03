@@ -7,7 +7,7 @@ namespace Microsoft.FamilyShowLib
   {
     // The name of the application folder.  This folder is used to save the 
     // files for this application such as the photos, stories and family data.
-    public const string ApplicationFolderName = "Family.Show";
+    public const string ApplicationFolderName = "FamilyPro";
     public const string AppDataFolderName = "CurrentFamily";
   }
 }

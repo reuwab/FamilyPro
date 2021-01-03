@@ -6,7 +6,7 @@
     xmlns:familyData="clr-namespace:Microsoft.FamilyShow.Controls.FamilyData"
     xmlns:local="clr-namespace:Microsoft.FamilyShow"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    Title="Family.Show"
+    Title="FamilyPro"
     Width="960"
     Height="728"
     Background="{DynamicResource MainBackgroundBrush}"
@@ -124,7 +124,7 @@
                     FontWeight="Light"
                     Foreground="{DynamicResource HeaderFontColor}"
                     Opacity="1"
-                    TextWrapping="Wrap"><Run Foreground="#FFCFD3DA" Text="Family" /><Run FontWeight="Normal" Text=".Show" /></TextBlock>
+                    TextWrapping="Wrap"><Run Foreground="#FFCFD3DA" Text="Family" /><Run FontWeight="Normal" Text="Pro" /></TextBlock>
         <Rectangle
                     x:Name="Vertigo"
                     Width="120"
